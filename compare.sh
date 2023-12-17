@@ -1,0 +1,1 @@
+./TMalign pdb/01/201L-A.pdb pdb/1B/21BI-A.pdb
